@@ -33,7 +33,7 @@ jobs:
         if: env.dst_key
         with:
           # 必选，需要同步的Github用户（源）
-          src: github/sinagod
+          src: github/xingren2019
           # 必选，需要同步到的Gitee的用户（目的）
           dst: gitee/the_king_god
           # 必选，更新指定库名字
